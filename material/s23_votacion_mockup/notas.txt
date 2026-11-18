@@ -1,0 +1,18 @@
+S23 · Votación (mockup)
+==============================
+
+LOCUCIÓN (Alba):
+  La comunidad decide. Dos sabores, dos creadores, y cada comentario es un voto.
+
+PIEZAS QUE PIDE EL BORRADOR:
+  1. CREADOR A · SABOR 1 · MOCKUP  (9:16)
+  2. CREADOR B · SABOR 2 · MOCKUP  (9:16)
+
+------------------------------
+TUS INDICACIONES (escribe debajo lo que quieras en esta sección:
+qué vídeo va en cada hueco, orden, desde qué segundo, textos, colores...)
+------------------------------
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al creador a · sabor 1 · mockup
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al creador b · sabor 2 · mockup

@@ -1,0 +1,1395 @@
+{
+ "s02": {
+  "archivo": "s02_v01_grid_2024.mp3",
+  "duracion": 7.64,
+  "voz": 6.64,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "A inicios de 2025, Amazonia tenía 185 seguidores en Instagram y ninguna cuenta en TikTok.",
+  "origen": [
+   0,
+   6.64
+  ]
+ },
+ "s03": {
+  "archivo": "s03_v01_transicion_grid.mp3",
+  "duracion": 4.953,
+  "voz": 3.953,
+  "frases": [
+   0.715
+  ],
+  "texto_oido": "Desde abril de 2025, empezamos a contar otra historia.",
+  "origen": [
+   6.84,
+   10.8
+  ]
+ },
+ "s04": {
+  "archivo": "s04_v01_montaje_palancas.mp3",
+  "duracion": 9.629,
+  "voz": 8.629,
+  "frases": [
+   0.546,
+   6.766
+  ],
+  "texto_oido": "Identidad, contenido propio, TikTok, influencers, paid media, comunidad. Seis palancas para darle la vuelta a la cuenta.",
+  "origen": [
+   11.13,
+   19.76
+  ]
+ },
+ "s05": {
+  "archivo": "s05_v01_grid_antes_despues.mp3",
+  "duracion": 8.647,
+  "voz": 7.62,
+  "frases": [
+   0.54
+  ],
+  "texto_oido": "Creamos una identidad propia y adaptamos la nueva imagen al entorno digital: un código visual que se reconoce en Instagram y TikTok.",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "Creamos",
+    "s": 0.04,
+    "e": 0.49
+   },
+   {
+    "w": "una",
+    "s": 0.49,
+    "e": 0.682
+   },
+   {
+    "w": "identidad",
+    "s": 0.682,
+    "e": 1.26
+   },
+   {
+    "w": "propia",
+    "s": 1.26,
+    "e": 1.646
+   },
+   {
+    "w": "y",
+    "s": 1.646,
+    "e": 1.71
+   },
+   {
+    "w": "adaptamos",
+    "s": 1.71,
+    "e": 2.288
+   },
+   {
+    "w": "la",
+    "s": 2.288,
+    "e": 2.416
+   },
+   {
+    "w": "nueva",
+    "s": 2.416,
+    "e": 2.737
+   },
+   {
+    "w": "imagen",
+    "s": 2.737,
+    "e": 3.123
+   },
+   {
+    "w": "al",
+    "s": 3.123,
+    "e": 3.251
+   },
+   {
+    "w": "entorno",
+    "s": 3.251,
+    "e": 3.701
+   },
+   {
+    "w": "digital:",
+    "s": 3.701,
+    "e": 4.63
+   },
+   {
+    "w": "un",
+    "s": 4.63,
+    "e": 4.759
+   },
+   {
+    "w": "código",
+    "s": 4.759,
+    "e": 5.144
+   },
+   {
+    "w": "visual",
+    "s": 5.144,
+    "e": 5.529
+   },
+   {
+    "w": "que",
+    "s": 5.529,
+    "e": 5.722
+   },
+   {
+    "w": "se",
+    "s": 5.722,
+    "e": 5.85
+   },
+   {
+    "w": "reconoce",
+    "s": 5.85,
+    "e": 6.364
+   },
+   {
+    "w": "en",
+    "s": 6.364,
+    "e": 6.492
+   },
+   {
+    "w": "Instagram",
+    "s": 6.492,
+    "e": 7.07
+   },
+   {
+    "w": "y",
+    "s": 7.07,
+    "e": 7.135
+   },
+   {
+    "w": "TikTok.",
+    "s": 7.135,
+    "e": 7.52
+   }
+  ],
+  "regrabada": "s05_alba_20261117_161947.mp3"
+ },
+ "s06": {
+  "archivo": "s06_v01_street.mp3",
+  "duracion": 5.172,
+  "voz": 4.172,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Salimos a la calle con el producto y pusimos a gente real delante de la marca.",
+  "origen": [
+   26.36,
+   30.54
+  ]
+ },
+ "s07": {
+  "archivo": "s07_v01_receta.mp3",
+  "duracion": 6.83,
+  "voz": 5.829,
+  "frases": [
+   0.5,
+   3.051
+  ],
+  "texto_oido": "Recetas con el producto como protagonista. Platanitos y agua de coco en momentos de consumo reales.",
+  "origen": [
+   30.75,
+   36.58
+  ]
+ },
+ "s08": {
+  "archivo": "s08_v01_tiktok.mp3",
+  "duracion": 7.655,
+  "voz": 6.654,
+  "frases": [
+   0.511,
+   4.271
+  ],
+  "texto_oido": "Abrimos TikTok desde cero, con formatos propios de la plataforma. Hoy, 7 .823 seguidores.",
+  "origen": [
+   36.81,
+   43.46
+  ]
+ },
+ "s09": {
+  "archivo": "s09_v01_colab.mp3",
+  "duracion": 6.165,
+  "voz": 5.12,
+  "frases": [],
+  "texto_oido": "",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [],
+  "regrabada": "s09_alba_20261117_163154.mp3"
+ },
+ "s10": {
+  "archivo": "s10_v01_paid.mp3",
+  "duracion": 15.74,
+  "voz": 14.74,
+  "frases": [
+   0.5,
+   3.22,
+   8.96
+  ],
+  "texto_oido": "un plan de paid media para que nos conocieran. En 2025, concentramos la inversión en campañas de awareness para llegar a nuevas audiencias. En 2026, sumamos campañas de interacción para impulsar la participación y empezar a construir comunidad.",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "un",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": "plan",
+    "s": 0.18,
+    "e": 0.4
+   },
+   {
+    "w": "de",
+    "s": 0.4,
+    "e": 0.56
+   },
+   {
+    "w": "paid",
+    "s": 0.56,
+    "e": 0.78
+   },
+   {
+    "w": "media",
+    "s": 0.78,
+    "e": 1.12
+   },
+   {
+    "w": "para",
+    "s": 1.12,
+    "e": 1.36
+   },
+   {
+    "w": "que",
+    "s": 1.36,
+    "e": 1.5
+   },
+   {
+    "w": "nos",
+    "s": 1.5,
+    "e": 1.62
+   },
+   {
+    "w": "conocieran.",
+    "s": 1.62,
+    "e": 2.26
+   },
+   {
+    "w": "En",
+    "s": 2.72,
+    "e": 2.88
+   },
+   {
+    "w": "2025,",
+    "s": 2.88,
+    "e": 3.5
+   },
+   {
+    "w": "concentramos",
+    "s": 4.02,
+    "e": 4.54
+   },
+   {
+    "w": "la",
+    "s": 4.54,
+    "e": 4.7
+   },
+   {
+    "w": "inversión",
+    "s": 4.7,
+    "e": 5.16
+   },
+   {
+    "w": "en",
+    "s": 5.16,
+    "e": 5.28
+   },
+   {
+    "w": "campañas",
+    "s": 5.28,
+    "e": 5.78
+   },
+   {
+    "w": "de",
+    "s": 5.78,
+    "e": 5.88
+   },
+   {
+    "w": "awareness",
+    "s": 5.88,
+    "e": 6.22
+   },
+   {
+    "w": "para",
+    "s": 6.22,
+    "e": 6.58
+   },
+   {
+    "w": "llegar",
+    "s": 6.58,
+    "e": 6.82
+   },
+   {
+    "w": "a",
+    "s": 6.82,
+    "e": 6.98
+   },
+   {
+    "w": "nuevas",
+    "s": 6.98,
+    "e": 7.24
+   },
+   {
+    "w": "audiencias.",
+    "s": 7.24,
+    "e": 7.9
+   },
+   {
+    "w": "En",
+    "s": 8.46,
+    "e": 8.62
+   },
+   {
+    "w": "2026,",
+    "s": 8.62,
+    "e": 9.38
+   },
+   {
+    "w": "sumamos",
+    "s": 9.74,
+    "e": 10.04
+   },
+   {
+    "w": "campañas",
+    "s": 10.04,
+    "e": 10.62
+   },
+   {
+    "w": "de",
+    "s": 10.62,
+    "e": 10.7
+   },
+   {
+    "w": "interacción",
+    "s": 10.7,
+    "e": 11.22
+   },
+   {
+    "w": "para",
+    "s": 11.22,
+    "e": 11.5
+   },
+   {
+    "w": "impulsar",
+    "s": 11.5,
+    "e": 12.02
+   },
+   {
+    "w": "la",
+    "s": 12.02,
+    "e": 12.12
+   },
+   {
+    "w": "participación",
+    "s": 12.12,
+    "e": 12.88
+   },
+   {
+    "w": "y",
+    "s": 12.88,
+    "e": 13.12
+   },
+   {
+    "w": "empezar",
+    "s": 13.12,
+    "e": 13.5
+   },
+   {
+    "w": "a",
+    "s": 13.5,
+    "e": 13.64
+   },
+   {
+    "w": "construir",
+    "s": 13.64,
+    "e": 14.02
+   },
+   {
+    "w": "comunidad.",
+    "s": 14.02,
+    "e": 14.54
+   }
+  ],
+  "regrabada": "s10_alba_20261111_174441.mp3"
+ },
+ "s11": {
+  "archivo": "s11_v01_sorteo.mp3",
+  "duracion": 21.84,
+  "voz": 20.84,
+  "frases": [
+   0.48,
+   7.02,
+   13.54,
+   17.78
+  ],
+  "texto_oido": "Activamos a la comunidad con dinámicas y sorteos para generar conversación y hacer crecer la base de seguidores. Nuestro mejor sorteo superó las 8 .400 interacciones y nos trajo más de 1 .000 seguidores. El único premio es nuestro propio producto, sin incentivos externos. Y lo más importante, los seguidores que ganamos se quedan.",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "Activamos",
+    "s": -0.02,
+    "e": 0.5
+   },
+   {
+    "w": "a",
+    "s": 0.5,
+    "e": 0.68
+   },
+   {
+    "w": "la",
+    "s": 0.68,
+    "e": 0.74
+   },
+   {
+    "w": "comunidad",
+    "s": 0.74,
+    "e": 1.12
+   },
+   {
+    "w": "con",
+    "s": 1.12,
+    "e": 1.46
+   },
+   {
+    "w": "dinámicas",
+    "s": 1.46,
+    "e": 1.96
+   },
+   {
+    "w": "y",
+    "s": 1.96,
+    "e": 2.12
+   },
+   {
+    "w": "sorteos",
+    "s": 2.12,
+    "e": 2.7
+   },
+   {
+    "w": "para",
+    "s": 2.7,
+    "e": 2.94
+   },
+   {
+    "w": "generar",
+    "s": 2.94,
+    "e": 3.36
+   },
+   {
+    "w": "conversación",
+    "s": 3.36,
+    "e": 4.06
+   },
+   {
+    "w": "y",
+    "s": 4.06,
+    "e": 4.3
+   },
+   {
+    "w": "hacer",
+    "s": 4.3,
+    "e": 4.56
+   },
+   {
+    "w": "crecer",
+    "s": 4.56,
+    "e": 4.94
+   },
+   {
+    "w": "la",
+    "s": 4.94,
+    "e": 5.1
+   },
+   {
+    "w": "base",
+    "s": 5.1,
+    "e": 5.32
+   },
+   {
+    "w": "de",
+    "s": 5.32,
+    "e": 5.48
+   },
+   {
+    "w": "seguidores.",
+    "s": 5.48,
+    "e": 5.98
+   },
+   {
+    "w": "Nuestro",
+    "s": 6.52,
+    "e": 6.9
+   },
+   {
+    "w": "mejor",
+    "s": 6.9,
+    "e": 7.12
+   },
+   {
+    "w": "sorteo",
+    "s": 7.12,
+    "e": 7.68
+   },
+   {
+    "w": "superó",
+    "s": 7.68,
+    "e": 8.1
+   },
+   {
+    "w": "las",
+    "s": 8.1,
+    "e": 8.24
+   },
+   {
+    "w": "8",
+    "s": 8.24,
+    "e": 8.64
+   },
+   {
+    "w": ".400",
+    "s": 8.64,
+    "e": 9.28
+   },
+   {
+    "w": "interacciones",
+    "s": 9.28,
+    "e": 10.3
+   },
+   {
+    "w": "y",
+    "s": 10.3,
+    "e": 10.78
+   },
+   {
+    "w": "nos",
+    "s": 10.78,
+    "e": 10.92
+   },
+   {
+    "w": "trajo",
+    "s": 10.92,
+    "e": 11.24
+   },
+   {
+    "w": "más",
+    "s": 11.24,
+    "e": 11.46
+   },
+   {
+    "w": "de",
+    "s": 11.46,
+    "e": 11.66
+   },
+   {
+    "w": "1",
+    "s": 11.66,
+    "e": 11.82
+   },
+   {
+    "w": ".000",
+    "s": 11.82,
+    "e": 11.94
+   },
+   {
+    "w": "seguidores.",
+    "s": 11.94,
+    "e": 12.42
+   },
+   {
+    "w": "El",
+    "s": 13.04,
+    "e": 13.28
+   },
+   {
+    "w": "único",
+    "s": 13.28,
+    "e": 13.46
+   },
+   {
+    "w": "premio",
+    "s": 13.46,
+    "e": 13.96
+   },
+   {
+    "w": "es",
+    "s": 13.96,
+    "e": 14.2
+   },
+   {
+    "w": "nuestro",
+    "s": 14.2,
+    "e": 14.42
+   },
+   {
+    "w": "propio",
+    "s": 14.42,
+    "e": 14.78
+   },
+   {
+    "w": "producto,",
+    "s": 14.78,
+    "e": 15.22
+   },
+   {
+    "w": "sin",
+    "s": 15.52,
+    "e": 15.66
+   },
+   {
+    "w": "incentivos",
+    "s": 15.66,
+    "e": 16.18
+   },
+   {
+    "w": "externos.",
+    "s": 16.18,
+    "e": 16.88
+   },
+   {
+    "w": "Y",
+    "s": 17.28,
+    "e": 17.34
+   },
+   {
+    "w": "lo",
+    "s": 17.34,
+    "e": 17.44
+   },
+   {
+    "w": "más",
+    "s": 17.44,
+    "e": 17.62
+   },
+   {
+    "w": "importante,",
+    "s": 17.62,
+    "e": 18.02
+   },
+   {
+    "w": "los",
+    "s": 18.64,
+    "e": 18.76
+   },
+   {
+    "w": "seguidores",
+    "s": 18.76,
+    "e": 19.18
+   },
+   {
+    "w": "que",
+    "s": 19.18,
+    "e": 19.38
+   },
+   {
+    "w": "ganamos",
+    "s": 19.38,
+    "e": 19.84
+   },
+   {
+    "w": "se",
+    "s": 19.84,
+    "e": 20.24
+   },
+   {
+    "w": "quedan.",
+    "s": 20.24,
+    "e": 20.66
+   }
+  ],
+  "regrabada": "s11_alba_20261111_175306.mp3"
+ },
+ "s12": {
+  "archivo": "s12_v01_contador_53M.mp3",
+  "duracion": 2.731,
+  "voz": 1.732,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Y los resultados llegaron.",
+  "origen": [
+   60.81,
+   62.55
+  ]
+ },
+ "s13": {
+  "archivo": "s13_v01_contadores.mp3",
+  "duracion": 13.62,
+  "voz": 12.62,
+  "frases": [
+   0.44
+  ],
+  "texto_oido": "53 ,5 millones de impactos y 200 .367 interacciones, 18 .011 seguidores en Instagram y 7 .823 en TikTok, partiendo de cero.",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "53",
+    "s": -0.06,
+    "e": 0.66
+   },
+   {
+    "w": ",5",
+    "s": 0.66,
+    "e": 1.26
+   },
+   {
+    "w": "millones",
+    "s": 1.26,
+    "e": 1.66
+   },
+   {
+    "w": "de",
+    "s": 1.66,
+    "e": 1.88
+   },
+   {
+    "w": "impactos",
+    "s": 1.88,
+    "e": 2.52
+   },
+   {
+    "w": "y",
+    "s": 2.52,
+    "e": 2.68
+   },
+   {
+    "w": "200",
+    "s": 2.68,
+    "e": 3.12
+   },
+   {
+    "w": ".367",
+    "s": 3.12,
+    "e": 4.78
+   },
+   {
+    "w": "interacciones,",
+    "s": 4.78,
+    "e": 5.5
+   },
+   {
+    "w": "18",
+    "s": 5.84,
+    "e": 6.42
+   },
+   {
+    "w": ".011",
+    "s": 6.42,
+    "e": 7.16
+   },
+   {
+    "w": "seguidores",
+    "s": 7.16,
+    "e": 7.64
+   },
+   {
+    "w": "en",
+    "s": 7.64,
+    "e": 7.84
+   },
+   {
+    "w": "Instagram",
+    "s": 7.84,
+    "e": 8.24
+   },
+   {
+    "w": "y",
+    "s": 8.24,
+    "e": 8.8
+   },
+   {
+    "w": "7",
+    "s": 8.8,
+    "e": 9.02
+   },
+   {
+    "w": ".823",
+    "s": 9.02,
+    "e": 10.34
+   },
+   {
+    "w": "en",
+    "s": 10.34,
+    "e": 10.7
+   },
+   {
+    "w": "TikTok,",
+    "s": 10.7,
+    "e": 10.96
+   },
+   {
+    "w": "partiendo",
+    "s": 11.38,
+    "e": 11.94
+   },
+   {
+    "w": "de",
+    "s": 11.94,
+    "e": 12.14
+   },
+   {
+    "w": "cero.",
+    "s": 12.14,
+    "e": 12.48
+   }
+  ],
+  "regrabada": "s13_alba_20261111_180008.mp3"
+ },
+ "s14": {
+  "archivo": "s14_v01_rafaga_cifras.mp3",
+  "duracion": 3.361,
+  "voz": 2.361,
+  "frases": [
+   0.515
+  ],
+  "texto_oido": "El encargo de notoriedad está cumplido.",
+  "origen": [
+   70.88,
+   73.25
+  ]
+ },
+ "s15": {
+  "archivo": "s15_v01_barra_impactos.mp3",
+  "duracion": 20.32,
+  "voz": 19.32,
+  "frases": [
+   0.5,
+   7.46
+  ],
+  "texto_oido": "de un nillon 300 .000 impactos al mes en 2025 a 4 ,2 millones en 2026. Las interacciones mensuales se multiplican por 7, de 1 .389 a 9 .741, y el engagement rate pasa del 0 ,30 al 0 ,73%.",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "de",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": "un",
+    "s": 0.2,
+    "e": 0.38
+   },
+   {
+    "w": "nillon",
+    "s": 0.38,
+    "e": 0.66
+   },
+   {
+    "w": "300",
+    "s": 0.66,
+    "e": 0.92
+   },
+   {
+    "w": ".000",
+    "s": 0.92,
+    "e": 1.42
+   },
+   {
+    "w": "impactos",
+    "s": 1.42,
+    "e": 1.96
+   },
+   {
+    "w": "al",
+    "s": 1.96,
+    "e": 2.1
+   },
+   {
+    "w": "mes",
+    "s": 2.1,
+    "e": 2.32
+   },
+   {
+    "w": "en",
+    "s": 2.32,
+    "e": 2.62
+   },
+   {
+    "w": "2025",
+    "s": 2.62,
+    "e": 3.32
+   },
+   {
+    "w": "a",
+    "s": 3.32,
+    "e": 4.1
+   },
+   {
+    "w": "4",
+    "s": 4.1,
+    "e": 4.52
+   },
+   {
+    "w": ",2",
+    "s": 4.52,
+    "e": 5.0
+   },
+   {
+    "w": "millones",
+    "s": 5.0,
+    "e": 5.22
+   },
+   {
+    "w": "en",
+    "s": 5.22,
+    "e": 5.66
+   },
+   {
+    "w": "2026.",
+    "s": 5.66,
+    "e": 6.44
+   },
+   {
+    "w": "Las",
+    "s": 6.96,
+    "e": 7.3
+   },
+   {
+    "w": "interacciones",
+    "s": 7.3,
+    "e": 7.84
+   },
+   {
+    "w": "mensuales",
+    "s": 7.84,
+    "e": 8.52
+   },
+   {
+    "w": "se",
+    "s": 8.52,
+    "e": 8.66
+   },
+   {
+    "w": "multiplican",
+    "s": 8.66,
+    "e": 9.22
+   },
+   {
+    "w": "por",
+    "s": 9.22,
+    "e": 9.44
+   },
+   {
+    "w": "7,",
+    "s": 9.44,
+    "e": 9.86
+   },
+   {
+    "w": "de",
+    "s": 10.22,
+    "e": 10.48
+   },
+   {
+    "w": "1",
+    "s": 10.48,
+    "e": 10.6
+   },
+   {
+    "w": ".389",
+    "s": 10.6,
+    "e": 11.84
+   },
+   {
+    "w": "a",
+    "s": 11.84,
+    "e": 12.2
+   },
+   {
+    "w": "9",
+    "s": 12.2,
+    "e": 12.48
+   },
+   {
+    "w": ".741,",
+    "s": 12.48,
+    "e": 13.76
+   },
+   {
+    "w": "y",
+    "s": 14.46,
+    "e": 14.68
+   },
+   {
+    "w": "el",
+    "s": 14.68,
+    "e": 14.76
+   },
+   {
+    "w": "engagement",
+    "s": 14.76,
+    "e": 15.16
+   },
+   {
+    "w": "rate",
+    "s": 15.16,
+    "e": 15.56
+   },
+   {
+    "w": "pasa",
+    "s": 15.56,
+    "e": 15.9
+   },
+   {
+    "w": "del",
+    "s": 15.9,
+    "e": 16.12
+   },
+   {
+    "w": "0",
+    "s": 16.12,
+    "e": 16.4
+   },
+   {
+    "w": ",30",
+    "s": 16.4,
+    "e": 16.94
+   },
+   {
+    "w": "al",
+    "s": 16.94,
+    "e": 17.34
+   },
+   {
+    "w": "0",
+    "s": 17.34,
+    "e": 17.66
+   },
+   {
+    "w": ",73%.",
+    "s": 17.66,
+    "e": 18.86
+   }
+  ],
+  "regrabada": "s15_alba_20261111_180505.mp3"
+ },
+ "s16": {
+  "archivo": "s16_v01_pregunta.mp3",
+  "duracion": 3.414,
+  "voz": 2.414,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Y en 2027, ¿qué pasa?",
+  "origen": [
+   79.84,
+   82.25
+  ]
+ },
+ "s17": {
+  "archivo": "s17_v01_notoriedad_comunidad.mp3",
+  "duracion": 4.211,
+  "voz": 3.211,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "En 2027 pasamos de notoriedad a comunidad.",
+  "origen": [
+   82.5,
+   85.71
+  ]
+ },
+ "s18": {
+  "archivo": "s18_v01_comentarios_dm.mp3",
+  "duracion": 8.126,
+  "voz": 7.126,
+  "frases": [
+   0.548,
+   2.228,
+   6.048
+  ],
+  "texto_oido": "Esa comunidad ya existe. Nos escribe, comenta y participa sin sorteo de por medio. Ahora toca potenciarla.",
+  "origen": [
+   85.91,
+   93.04
+  ]
+ },
+ "s19": {
+  "archivo": "s19_v01_montaje_5_palancas.mp3",
+  "duracion": 9.709,
+  "voz": 8.709,
+  "frases": [
+   0.617,
+   1.837,
+   3.397,
+   4.797,
+   5.957,
+   7.737
+  ],
+  "texto_oido": "5 palancas. Caras y emociones. Un host en la calle. Un club propio. Embajadores todo el año. Y actividades con WellHub.",
+  "origen": [
+   93.28,
+   101.99
+  ]
+ },
+ "s20": {
+  "archivo": "s20_v01_antes_despues_caras.mp3",
+  "duracion": 4.116,
+  "voz": 3.116,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Mismos modelos reales ahora con rostro y emoción.",
+  "origen": [
+   102.21,
+   105.33
+  ]
+ },
+ "s21": {
+  "archivo": "s21_v01_host.mp3",
+  "duracion": 4.995,
+  "voz": 3.994,
+  "frases": [
+   0.508,
+   2.788
+  ],
+  "texto_oido": "Una cara fija que conversa en la calle y en redes. El host de Amazonia.",
+  "origen": [
+   105.51,
+   109.51
+  ]
+ },
+ "s22": {
+  "archivo": "s22_v01_timeline_embajadores.mp3",
+  "duracion": 5.312,
+  "voz": 4.312,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Los mismos creadores durante 12 meses para que la gente los asocia a Amazonia.",
+  "origen": [
+   109.72,
+   114.03
+  ]
+ },
+ "s23": {
+  "archivo": "s23_v01_votacion.mp3",
+  "duracion": 6.33,
+  "voz": 5.33,
+  "frases": [
+   0.647,
+   2.087
+  ],
+  "texto_oido": "La comunidad decide. Dos sabores, dos creadores y cada comentario es un voto.",
+  "origen": [
+   114.21,
+   119.54
+  ]
+ },
+ "s24": {
+  "archivo": "s24_v01_dos_bolsas.mp3",
+  "duracion": 4.001,
+  "voz": 3.001,
+  "frases": [
+   0.552
+  ],
+  "texto_oido": "Notoriedad e interacción, medidas por separado.",
+  "origen": [
+   119.73,
+   122.73
+  ]
+ },
+ "s25": {
+  "archivo": "s25_v01_run_club.mp3",
+  "duracion": 6.777,
+  "voz": 5.778,
+  "frases": [
+   0.551,
+   2.271,
+   4.211
+  ],
+  "texto_oido": "El sampling ya no basta. Las marcas están creando clubs. Running, Yoga, Deport en Grupo.",
+  "origen": [
+   122.89,
+   128.67
+  ]
+ },
+ "s26": {
+  "archivo": "s26_v01_web_club.mp3",
+  "duracion": 5.966,
+  "voz": 4.965,
+  "frases": [
+   0.506,
+   2.666
+  ],
+  "texto_oido": "Amazonia Club, Friends First. Un espacio propio donde la comunidad tiene prioridad.",
+  "origen": [
+   128.77,
+   133.74
+  ]
+ },
+ "s27": {
+  "archivo": "s27_v01_montaje_referencias.mp3",
+  "duracion": 2.88,
+  "voz": 1.881,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Marcas en las que nos tenemos que fijar.",
+  "origen": [
+   133.99,
+   135.87
+  ]
+ },
+ "s29": {
+  "archivo": "s29_v01_genz.mp3",
+  "duracion": 6.849,
+  "voz": 5.85,
+  "frases": [
+   0.5,
+   2.867,
+   4.807
+  ],
+  "texto_oido": "La generación Z ha cambiado el plan. Menos copas y más queradas. Es el momento de Amazonia.",
+  "origen": [
+   136.05,
+   141.9
+  ]
+ },
+ "s30": {
+  "archivo": "s30_v01_loop_cierre.mp3",
+  "duracion": 4.137,
+  "voz": 3.137,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "En 2027, Amazonia es otra historia.",
+  "origen": [
+   142.06,
+   145.19
+  ]
+ },
+ "_meta": {
+  "voz": "alba",
+  "palabras": "audio/originales/palabras_alba.json"
+ },
+ "s31": {
+  "archivo": "s31_v01.mp3",
+  "duracion": 5.64,
+  "voz": 4.64,
+  "frases": [
+   0.48
+  ],
+  "texto_oido": "Y si soñamos alto de verdad y creamos la próxima canción del verano con...",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "Y",
+    "s": -0.02,
+    "e": 0.14
+   },
+   {
+    "w": "si",
+    "s": 0.14,
+    "e": 0.22
+   },
+   {
+    "w": "soñamos",
+    "s": 0.22,
+    "e": 0.66
+   },
+   {
+    "w": "alto",
+    "s": 0.66,
+    "e": 1.0
+   },
+   {
+    "w": "de",
+    "s": 1.0,
+    "e": 1.18
+   },
+   {
+    "w": "verdad",
+    "s": 1.18,
+    "e": 1.52
+   },
+   {
+    "w": "y",
+    "s": 1.52,
+    "e": 1.98
+   },
+   {
+    "w": "creamos",
+    "s": 1.98,
+    "e": 2.34
+   },
+   {
+    "w": "la",
+    "s": 2.34,
+    "e": 2.52
+   },
+   {
+    "w": "próxima",
+    "s": 2.52,
+    "e": 2.84
+   },
+   {
+    "w": "canción",
+    "s": 2.84,
+    "e": 3.32
+   },
+   {
+    "w": "del",
+    "s": 3.32,
+    "e": 3.54
+   },
+   {
+    "w": "verano",
+    "s": 3.54,
+    "e": 3.92
+   },
+   {
+    "w": "con...",
+    "s": 3.92,
+    "e": 4.62
+   }
+  ],
+  "regrabada": "s31_alba_20261111_191317.mp3"
+ },
+ "s32": {
+  "archivo": "s32_v01.mp3",
+  "duracion": 1.86,
+  "voz": 0.86,
+  "frases": [
+   0.44
+  ],
+  "texto_oido": "¿Verdad?",
+  "origen": [
+   0,
+   0
+  ],
+  "palabras": [
+   {
+    "w": "¿Verdad?",
+    "s": -0.06,
+    "e": 0.46
+   }
+  ],
+  "regrabada": "s32_alba_20261111_191321.mp3"
+ }
+}

@@ -1,0 +1,29 @@
+S11 · Sorteos
+==============================
+
+LOCUCIÓN (Alba):
+  Y activamos a la comunidad con dinámicas y sorteos para generar conversación.
+
+PIEZAS QUE PIDE EL BORRADOR:
+  1. SORTEO 1 · PENDIENTE  (9:16)
+  2. SORTEO 2 · PENDIENTE  (9:16)
+  3. SORTEO 3 · PENDIENTE  (9:16)
+
+------------------------------
+TUS INDICACIONES (escribe debajo lo que quieras en esta sección:
+qué vídeo va en cada hueco, orden, desde qué segundo, textos, colores...)
+------------------------------
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al sorteo 1
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al sorteo 2
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al sorteo 3
+
+- Cifras: XXXX / XXXX / XXXX (si no las tienes, pon «provisional 3500»)
+
+MEJORES SORTEOS (datos del cliente, 11/11/2026):
+  1. Jul/ago 2025 · «regalamos la nevera» · 8.468 interacciones · +1.068 seguidores · https://www.instagram.com/p/DbSYShBAOvE/
+  2. Oct 2025 · 4.607 interacciones · +317 seguidores · (enlace de Insights, sin URL pública)
+  3. Mar 2026 · todo el portfolio de productos · 4.485 interacciones · +647 seguidores · https://www.instagram.com/p/DWBK-P_kkcP/
+  → FALTAN las imágenes de los tres posts: guárdalas aquí como sorteo_1, sorteo_2, sorteo_3 (png/jpg)

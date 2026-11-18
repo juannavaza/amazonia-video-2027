@@ -1,0 +1,394 @@
+{
+ "s02": {
+  "archivo": "s02_v01_grid_2024.mp3",
+  "duracion": 7.836,
+  "voz": 6.836,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "A inicios de 2025, Amazonia tenía 185 seguidores en Instagram y ninguna cuenta en TikTok.",
+  "origen": [
+   0,
+   6.84
+  ]
+ },
+ "s03": {
+  "archivo": "s03_v01_transicion_grid.mp3",
+  "duracion": 4.599,
+  "voz": 3.598,
+  "frases": [
+   0.501
+  ],
+  "texto_oido": "Desde abril de 2025, empezamos a contar otra historia.",
+  "origen": [
+   7.22,
+   10.82
+  ]
+ },
+ "s04": {
+  "archivo": "s04_v01_montaje_palancas.mp3",
+  "duracion": 9.827,
+  "voz": 8.827,
+  "frases": [
+   0.523,
+   7.063
+  ],
+  "texto_oido": "Identidad, contenido propio, TikTok, influencers, paid media, comunidad. Seis palancas para darle la vuelta a la cuenta.",
+  "origen": [
+   11.22,
+   20.04
+  ]
+ },
+ "s05": {
+  "archivo": "s05_v01_grid_antes_despues.mp3",
+  "duracion": 7.226,
+  "voz": 6.226,
+  "frases": [
+   0.5,
+   2.81
+  ],
+  "texto_oido": "Primero, una identidad propia. Un código visual que se reconoce en el Grid, en Stories y en TikTok.",
+  "origen": [
+   20.33,
+   26.56
+  ]
+ },
+ "s06": {
+  "archivo": "s06_v01_street.mp3",
+  "duracion": 4.991,
+  "voz": 3.991,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Salimos a la calle con el producto y pusimos a gente real delante de la marca.",
+  "origen": [
+   26.86,
+   30.85
+  ]
+ },
+ "s07": {
+  "archivo": "s07_v01_receta.mp3",
+  "duracion": 6.688,
+  "voz": 5.688,
+  "frases": [
+   0.5,
+   2.957
+  ],
+  "texto_oido": "Recetas con el producto como protagonista. Platanitos y agua de coco en momentos de consumo reales.",
+  "origen": [
+   31.12,
+   36.81
+  ]
+ },
+ "s08": {
+  "archivo": "s08_v01_tiktok.mp3",
+  "duracion": 7.722,
+  "voz": 6.723,
+  "frases": [
+   0.519,
+   4.399
+  ],
+  "texto_oido": "Abrimos TikTok desde cero, con formatos propios de la plataforma. Hoy, 7 .823 seguidores.",
+  "origen": [
+   37.08,
+   43.8
+  ]
+ },
+ "s09": {
+  "archivo": "s09_v01_colab.mp3",
+  "duracion": 9.085,
+  "voz": 8.085,
+  "frases": [
+   0.519,
+   4.659
+  ],
+  "texto_oido": "Elegimos a los mejores creadores para llevar Amazonia a nuevas audiencias. Esta colaboración llegó a 847 .000 reproducciones.",
+  "origen": [
+   44.08,
+   52.17
+  ]
+ },
+ "s10": {
+  "archivo": "s10_v01_paid.mp3",
+  "duracion": 5.15,
+  "voz": 4.15,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Pautamos las mejores piezas en Instagram y TikTok para multiplicar su alcance.",
+  "origen": [
+   52.46,
+   56.61
+  ]
+ },
+ "s11": {
+  "archivo": "s11_v01_sorteo.mp3",
+  "duracion": 4.975,
+  "voz": 3.976,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Y activamos a la comunidad con dinámicas y sorteos para generar conversación.",
+  "origen": [
+   56.9,
+   60.88
+  ]
+ },
+ "s12": {
+  "archivo": "s12_v01_contador_53M.mp3",
+  "duracion": 2.351,
+  "voz": 1.35,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Y los resultados llegaron.",
+  "origen": [
+   61.2,
+   62.55
+  ]
+ },
+ "s13": {
+  "archivo": "s13_v01_contadores.mp3",
+  "duracion": 8.504,
+  "voz": 7.504,
+  "frases": [
+   0.542,
+   3.142,
+   5.622
+  ],
+  "texto_oido": "53 ,5 millones de impactos. 18 .000 11 seguidores en Instagram. 7 .823 en TikTok.",
+  "origen": [
+   62.84,
+   70.34
+  ]
+ },
+ "s14": {
+  "archivo": "s14_v01_rafaga_cifras.mp3",
+  "duracion": 3.214,
+  "voz": 2.214,
+  "frases": [
+   0.507
+  ],
+  "texto_oido": "El encargo de notoriedad está cumplido.",
+  "origen": [
+   70.61,
+   72.83
+  ]
+ },
+ "s15": {
+  "archivo": "s15_v01_barra_impactos.mp3",
+  "duracion": 7.146,
+  "voz": 6.146,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "De 1 ,3 millones de impactos al mes en 2025, a 4 ,2 millones en 2026.",
+  "origen": [
+   73.1,
+   79.25
+  ]
+ },
+ "s16": {
+  "archivo": "s16_v01_pregunta.mp3",
+  "duracion": 2.942,
+  "voz": 1.942,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Y en 2027, ¿qué pasa?",
+  "origen": [
+   79.52,
+   81.46
+  ]
+ },
+ "s17": {
+  "archivo": "s17_v01_notoriedad_comunidad.mp3",
+  "duracion": 4.025,
+  "voz": 3.025,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "En 2027 pasamos de notoriedad a comunidad.",
+  "origen": [
+   81.75,
+   84.78
+  ]
+ },
+ "s18": {
+  "archivo": "s18_v01_comentarios_dm.mp3",
+  "duracion": 7.888,
+  "voz": 6.888,
+  "frases": [
+   0.522,
+   2.262,
+   5.982
+  ],
+  "texto_oido": "Esa comunidad ya existe. Nos escribe, comenta y participa sin sorteo de por medio. Ahora toca potenciarla.",
+  "origen": [
+   85.16,
+   92.05
+  ]
+ },
+ "s19": {
+  "archivo": "s19_v01_montaje_5_palancas.mp3",
+  "duracion": 9.334,
+  "voz": 8.334,
+  "frases": [
+   0.577,
+   1.677,
+   3.137,
+   4.517,
+   5.677,
+   7.317
+  ],
+  "texto_oido": "5 palancas. Caras y emociones. Un host en la calle. Un club propio. Embajadores todo el año. Y actividades con WellHub.",
+  "origen": [
+   92.32,
+   100.66
+  ]
+ },
+ "s20": {
+  "archivo": "s20_v01_antes_despues_caras.mp3",
+  "duracion": 4.011,
+  "voz": 3.011,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Mismos modelos reales, ahora con rostro y emoción.",
+  "origen": [
+   100.97,
+   103.98
+  ]
+ },
+ "s21": {
+  "archivo": "s21_v01_host.mp3",
+  "duracion": 5.059,
+  "voz": 4.059,
+  "frases": [
+   0.511,
+   3.231
+  ],
+  "texto_oido": "Una cara fija que conversa en la calle y en redes. El host de Amazonia.",
+  "origen": [
+   104.29,
+   108.35
+  ]
+ },
+ "s22": {
+  "archivo": "s22_v01_timeline_embajadores.mp3",
+  "duracion": 5.363,
+  "voz": 4.363,
+  "frases": [
+   0.517,
+   2.477
+  ],
+  "texto_oido": "Los mismos creadores durante 12 meses. Para que la gente los asocia a Amazonia.",
+  "origen": [
+   108.64,
+   113.01
+  ]
+ },
+ "s23": {
+  "archivo": "s23_v01_votacion.mp3",
+  "duracion": 6.098,
+  "voz": 5.098,
+  "frases": [
+   0.586,
+   1.986,
+   4.126
+  ],
+  "texto_oido": "La comunidad decide. Dos sabores, dos creadores. Y cada comentario es un voto.",
+  "origen": [
+   113.29,
+   118.39
+  ]
+ },
+ "s24": {
+  "archivo": "s24_v01_dos_bolsas.mp3",
+  "duracion": 3.95,
+  "voz": 2.949,
+  "frases": [
+   0.569,
+   2.329
+  ],
+  "texto_oido": "Notoriedad e interacción. Medidas por separado.",
+  "origen": [
+   118.67,
+   121.62
+  ]
+ },
+ "s25": {
+  "archivo": "s25_v01_run_club.mp3",
+  "duracion": 6.803,
+  "voz": 5.804,
+  "frases": [
+   0.524,
+   2.164,
+   4.104
+  ],
+  "texto_oido": "El sampling ya no basta. Las marcas están creando clubs. Running, Yoga, Deporte en Grupo.",
+  "origen": [
+   121.92,
+   127.72
+  ]
+ },
+ "s26": {
+  "archivo": "s26_v01_web_club.mp3",
+  "duracion": 5.857,
+  "voz": 4.858,
+  "frases": [
+   0.526,
+   2.686
+  ],
+  "texto_oido": "Amazonia Club, Friends First. Un espacio propio donde la comunidad tiene prioridad.",
+  "origen": [
+   127.95,
+   132.81
+  ]
+ },
+ "s27": {
+  "archivo": "s27_v01_montaje_referencias.mp3",
+  "duracion": 2.833,
+  "voz": 1.832,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "Marcas en las que nos tenemos que fijar.",
+  "origen": [
+   133.14,
+   134.98
+  ]
+ },
+ "s29": {
+  "archivo": "s29_v01_genz.mp3",
+  "duracion": 6.771,
+  "voz": 5.771,
+  "frases": [
+   0.505,
+   2.865,
+   4.345
+  ],
+  "texto_oido": "La generación Z ha cambiado el plan. Menos copas y más quedadas. Es el momento de Amazonia.",
+  "origen": [
+   135.25,
+   141.03
+  ]
+ },
+ "s30": {
+  "archivo": "s30_v01_loop_cierre.mp3",
+  "duracion": 4.125,
+  "voz": 3.126,
+  "frases": [
+   0.5
+  ],
+  "texto_oido": "En 2027, Amazonia es otra historia.",
+  "origen": [
+   141.28,
+   144.41
+  ]
+ },
+ "_meta": {
+  "voz": "juaniyo",
+  "palabras": "audio/originales/palabras_juaniyo.json"
+ }
+}

@@ -1,0 +1,27 @@
+S19 · Cinco palancas
+==============================
+
+LOCUCIÓN (Alba):
+  Cinco palancas. Caras y emociones. Un host en la calle. Un club propio. Embajadores todo el año. Y actividades con Wellhub.
+
+PIEZAS QUE PIDE EL BORRADOR:
+  1. CARAS Y EMOCIONES · PENDIENTE  (9:16)
+  2. HOST EN LA CALLE · PENDIENTE  (9:16)
+  3. CLUB PROPIO · PENDIENTE  (9:16)
+  4. EMBAJADORES · PENDIENTE  (9:16)
+  5. ACTIVIDADES WELLHUB · PENDIENTE  (9:16)
+
+------------------------------
+TUS INDICACIONES (escribe debajo lo que quieras en esta sección:
+qué vídeo va en cada hueco, orden, desde qué segundo, textos, colores...)
+------------------------------
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al caras y emociones
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al host en la calle
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al club propio
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al embajadores
+
+- Añade plano del NOMBRE_ARCHIVO del XX segundos al XX segundos al actividades wellhub

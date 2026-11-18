@@ -1,0 +1,16 @@
+# Medios pesados o de terceros: se quedan en el disco local
+borrador/*.mp4
+borrador/tramos*/
+borrador/corto/
+borrador/entradas/
+borrador/recursos/
+material/**/*.mp4
+material/**/*.mov
+material/**/*.png
+material/**/*.jpg
+fonts/
+audio/musica/
+.venv/
+__pycache__/
+.DS_Store
+.env

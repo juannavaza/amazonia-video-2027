@@ -1,0 +1,15 @@
+interface:
+  display_name: Crear vídeos con código
+  short_description: Dirige, anima y revisa vídeos con música sincronizada
+  default_prompt: Usa $video-codigo para estudiar este proyecto y sus referencias,
+    proponer una dirección y producir una prueba de movimiento y sonido antes del
+    vídeo completo.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
