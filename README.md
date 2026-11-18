@@ -16,3 +16,11 @@ Proyecto de PSWorks para el vídeo de la propuesta 2027 de Amazonia Fruit (entre
 python3 build/borrador.py            # renderiza tramos
 # montaje completo: ver unir() en build/borrador.py
 ```
+
+## Copia completa y cómo regenerar desde cero
+La carpeta entera (con vídeos, material, música y tipografías) está en Google Drive: **Mi unidad › Videos-Claude › video-codigo.zip** (copia del 18/11/2026).
+
+1. Descomprime `video-codigo.zip` en `~/Desktop/Projectos/video-codigo`.
+2. Si hay cambios en GitHub posteriores al zip, copia encima `build/`, `audio/` y `borrador/cambios_pendientes.md` de este repo.
+3. Requisitos: Python 3 con Pillow y numpy (y opencv-python para la portada), ffmpeg.
+4. `python3 build/borrador.py` renderiza los tramos; el montaje completo se hace con `unir()`.
